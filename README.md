@@ -6,4 +6,4 @@ Solved puzzles:
 - Dec 24: Solved in time, wasn't a coding or math problem so no writeup uploaded.
 - April 25: Solved in time, writeup will be uploaded after puzzle ends (May).
 
-I'm also tracking my progress for Project Euler puzzles as well! You can check my progress ([here](https://github.com/arnav-42/ProjectEuler)).
+**If you're here for Project Euler stuff too, see my easy-install CLI helper [here](https://github.com/arnav-42/projecteuler_cli).**
